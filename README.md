@@ -15,3 +15,4 @@ User has to input number to assign on-campus job. "5"
 User has to input "(ID)" "TA" "part-time"
 Input number to display all student with on-campus jobs "6"
 Exit SMS "0"
+1
